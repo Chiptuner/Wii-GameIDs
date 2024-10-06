@@ -1,4 +1,5 @@
 ## Wii GameIDs
+Below is every Wii GameID from https://www.gametdb.com/Wii/List neatly listed on one page for easy searching.
 ```
 007E01 	Wii Auto Erase Disc (NTSC-U)
 091E00 	Movie-Ch Install Disc Ver. A (NTSC-U)
